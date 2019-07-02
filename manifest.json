@@ -1,0 +1,14 @@
+{
+    "name": "NUNO",
+    "short_name": "nuno",
+    "icons": [{
+        "src":"nuno.png",
+        "sizes": "269x64",
+        "type" : "image/png"
+    }],
+    "start_url": "/index.html?from=homescreen",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#1ebba3",
+    "theme_color": "#1ebba3"
+}
